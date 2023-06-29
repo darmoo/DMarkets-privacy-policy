@@ -2,7 +2,7 @@
 # DMarket's Privacy Policy
 **Last Update: June 2023**
 
-Welcome to DMarkets Term of Services page.
+Welcome to DMarkets privacy policy page.
 
 Please read this privacy policy (the “**Policy**”) carefully to understand how DMarkets Bot (“**DMarkets**”, “**we**”) uses personal information. By accessing or using DMarkets, you acknowledge that you have read and understood this Policy. This Policy may change from time to time; any changes we make to this Policy will be posted on this Site, we will also take any other steps, to the extent required by applicable law, including notifying you about material changes. Changes to this Policy are effective as of the stated "**Last Updated**" date. We recommend that you check the Policy periodically for any updates or changes.
 
@@ -19,3 +19,5 @@ Please read this privacy policy (the “**Policy**”) carefully to understand h
 #
 ### Still need help?
 We’re [here](https://discord.com/invite/KaFWv2jJCC) for you.
+
+[HOME](https://darmoo.github.io/)
